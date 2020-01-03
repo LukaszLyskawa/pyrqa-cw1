@@ -1,0 +1,5 @@
+Otworz okno z ekranem logowania;
+Zaczekaj na input;
+Po wciśnięciu zaloguj, wyślij dane na backend;
+Zaczekaj na dane z backendu;
+Zwróć dane użytkownika z backendu;
