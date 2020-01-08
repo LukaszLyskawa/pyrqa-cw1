@@ -1,3 +1,4 @@
-Odbierz dane użytkownika;
-Wyświetl powitanie użytkownika: "Witaj" + imię i nazwisko z danych user;
+﻿Odbierz dane użytkownika;
+Wyświetl komunikat "Jesteś głupi i śmierdzisz";
+
 Otwórz okno ekranu głównego wyświetlając dostępne produkty;
