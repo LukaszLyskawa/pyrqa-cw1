@@ -1,4 +1,4 @@
 ﻿Otwórz aplikację;
 Wywołaj kod z pliku Feature-Login;
-Zaczekaj 10 sekund i zapisz do zmiennej user;
-Wywołaj kod z pliku Feature-Ekran-Główny, niech sie kręci spiner;
+Zaczekaj 30 sekund i zapisz do zmiennej user;
+Wywołaj kod z pliku Feature-Ekran-Główny ---;
