@@ -1,5 +1,7 @@
-Otworz okno z ekranem logowania;
+﻿Otworz okno z ekranem logowania;
 Zaczekaj na input;
 Po wciśnięciu zaloguj, wyślij dane na backend;
+Wyświetl spinner "You turn me round, round, baby, round, round"
 Zaczekaj na dane z backendu;
 Zwróć dane użytkownika z backendu;
+Asia lubi lizawki solne;
