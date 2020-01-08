@@ -1,3 +1,3 @@
 Odbierz dane użytkownika;
----;
+Wyświetl powitanie użytkownika: "Witaj" + imię i nazwisko z danych user;
 Otwórz okno ekranu głównego wyświetlając dostępne produkty;
